@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://blog.bsource.com.br/assets/img/Tutorial.gif" width="400" />
+</p>
+
 # 👋 Hi, I'm Gabriel Brunetto
 
 🎓 Computer Science student (6th semester) at URI Erechim  
